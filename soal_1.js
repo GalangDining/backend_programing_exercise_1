@@ -12,3 +12,4 @@ for (let i = 0 ; i < 1000 ; i++ ) {
     
 }
 bilanganPrima.forEach((i) => console.log(i));
+// 535230193 - Muhammad Galang Dining Samudra
